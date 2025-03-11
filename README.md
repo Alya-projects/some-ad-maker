@@ -138,7 +138,7 @@ somepost-maker/
 1. Kloonaa repositorio:
 
 ```bash
-git clone https://github.com/yourusername/somepost-maker.git
+git clone https://github.com/Alya-projects/some-ad-maker
 cd somepost-maker
 ```
 
